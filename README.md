@@ -1,7 +1,6 @@
 ## UrbanDict-Scraper
 
-Web spider for Urban Dictionary: http://urbandictionary.com/
-----
+### http://urbandictionary.com/
 
 Scraping Urban Dict through website and API
 -------------
