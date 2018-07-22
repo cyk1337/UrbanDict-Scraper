@@ -1,6 +1,3 @@
-## UrbanDict-Scraper
-
-
 Scraping Urban Dict through website and API
 -------------
 
