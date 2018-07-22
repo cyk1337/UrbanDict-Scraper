@@ -1,11 +1,10 @@
 ## UrbanDict-Scraper
 
-### http://urbandictionary.com/
 
 Scraping Urban Dict through website and API
 -------------
 
-* Scraping data from webpage:
+* Scraping data from webpage: http://urbandictionary.com/
 ```diff
 + scrapy crawl UD
 ```
